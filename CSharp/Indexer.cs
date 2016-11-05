@@ -9,7 +9,7 @@ class Indexer
   // Indexer
   public int this[string key]
   {
-    get { return _colors.ContainsKey(key) ? _colors[key] : 0; }
+    get { return _colors.ContainsKey(key) ? _colors[key] : -1; }
     set { _colors.Add(key, value); }
   }
 }
@@ -18,10 +18,11 @@ class MainClass {
   public static void Main (string[] args) {
   	Indexer obj = new Indexer();
   	
-  	obj["Hello"] = 1;
-  	obj["World"] = 2;
+  	obj["white"] = 1;
+  	obj["blue"] = 2;
   	
-  	Console.WriteLine(obj["Hello"]);
-  	Console.WriteLine(obj["World"]);
+  	Console.WriteLine(obj["white"]); // 1
+  	Console.WriteLine(obj["blue"]); // 2
+    Console.WriteLine(obj["green"]); // -1
   }
 }
