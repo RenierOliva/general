@@ -2,14 +2,14 @@
 Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 
 ## EMPLOYMENT
-### Software / Robotics	Tampa Deep Sea Xplorers	Feb 2017 – Present
+### Software / Robotics	&nbsp;&nbsp;&nbsp; Tampa Deep Sea Xplorers	Feb 2017 – Present
 * Designed and prototyped an AUUV (Autonomous Unmanned Underwater Vehicle) for deep water exploration (Shell- and NOAA-supported).
 
-### Software Engineer / Owner	Unique Coding Solutions	Feb 2017 – Present
+### Software Engineer / Owner &nbsp;&nbsp;&nbsp; Unique Coding Solutions	Feb 2017 – Present
 * Created a Cascade Filling System for Compressed Natura Gas (CNG).
 * Developed Amazon Alexa skills for United Methodist Church.
 
-### .NET Developer	ByDesign Technologies	Jan 2013 - Mar 2017
+### .NET Developer &nbsp;&nbsp;&nbsp; ByDesign Technologies	Jan 2013 - Mar 2017
 * Participate in technical solutions and estimate new projects timeline.
 * Implement new projects on ASP.NET MVC and Restful APIs (SOA).
 * Maintain existing modules on Classic ASP and SOAP web services.
@@ -18,7 +18,7 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 * Perform data repairs and data transformations.
 * Participate in reviewing code, and 3rd party integration.
 
-### Software Engineer	Union CubaPetróleo	Oct 2007 - Dec 2011
+### Software Engineer &nbsp;&nbsp;&nbsp; Union CubaPetróleo	Oct 2007 - Dec 2011
 * Designed, implemented, and maintained Exploration and Production business applications.
 * Developed information systems for oil and gas production.
 * Created web application for report of drilling operations.
