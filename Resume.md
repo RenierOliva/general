@@ -1,4 +1,4 @@
-#Renier Oliva 
+# Renier Oliva 
 Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 
 ## EMPLOYMENT
@@ -39,9 +39,8 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 * Created customer arts and crafts website.
 
 ## TECHNICAL EXPERIENCE				
-###Projects
+### Projects
 * Security System (2013 – Present): Linux Service that read real time sensors data and trigger events based on setting’s behavior using a Raspberry Pi, Restful APIs and AWS.
-* Applying basic machine learning before sending notifications and triggering events.
 
 ## EDUCATION
 ### Matanzas, Cuba	Universidad de Matanzas	Sept 2000 – May 2005
