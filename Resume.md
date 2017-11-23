@@ -2,14 +2,14 @@
 Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 
 ## EMPLOYMENT
-### Software / Robotics	&nbsp;&nbsp;&nbsp; Tampa Deep Sea Xplorers	Feb 2017 – Present
+### Software / Robotics	&nbsp;&nbsp;&nbsp; Tampa Deep Sea Xplorers &nbsp;&nbsp;&nbsp; Feb 2017 – Present
 * Designed and prototyped an AUUV (Autonomous Unmanned Underwater Vehicle) for deep water exploration (Shell- and NOAA-supported).
 
-### Software Engineer / Owner &nbsp;&nbsp;&nbsp; Unique Coding Solutions	Feb 2017 – Present
+### Software Engineer / Owner &nbsp;&nbsp;&nbsp; Unique Coding Solutions &nbsp;&nbsp;&nbsp; Feb 2017 – Present
 * Created a Cascade Filling System for Compressed Natura Gas (CNG).
 * Developed Amazon Alexa skills for United Methodist Church.
 
-### .NET Developer &nbsp;&nbsp;&nbsp; ByDesign Technologies	Jan 2013 - Mar 2017
+### .NET Developer &nbsp;&nbsp;&nbsp; ByDesign Technologies &nbsp;&nbsp;&nbsp; Jan 2013 - Mar 2017
 * Participate in technical solutions and estimate new projects timeline.
 * Implement new projects on ASP.NET MVC and Restful APIs (SOA).
 * Maintain existing modules on Classic ASP and SOAP web services.
@@ -18,7 +18,7 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 * Perform data repairs and data transformations.
 * Participate in reviewing code, and 3rd party integration.
 
-### Software Engineer &nbsp;&nbsp;&nbsp; Union CubaPetróleo	Oct 2007 - Dec 2011
+### Software Engineer &nbsp;&nbsp;&nbsp; Union CubaPetróleo &nbsp;&nbsp;&nbsp; Oct 2007 - Dec 2011
 * Designed, implemented, and maintained Exploration and Production business applications.
 * Developed information systems for oil and gas production.
 * Created web application for report of drilling operations.
@@ -28,11 +28,11 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 * Prepared daily reports of oil production by enterprises, managed and analyzed data of oil produced.
 * Coordinated with company enterprises to make decisions about software compatibility, communication, and future developments.
 							 
-### Programming Professor	Universidad de Ciencias Informáticas	Aug 2005 - Aug 2007
+### Programming Professor &nbsp;&nbsp;&nbsp; Universidad de Ciencias Informáticas &nbsp;&nbsp;&nbsp; Aug 2005 - Aug 2007
 * Taught Object-Oriented Programming concepts, web design, and software engineering courses.
 * Mentored and Tutor for three engineering thesis students.
 
-### Software Developer	Freelance	2000 - 2012
+### Software Developer &nbsp;&nbsp;&nbsp; Freelance &nbsp;&nbsp;&nbsp; 2000 - 2012
 * Designed Interactive multimedia educational software for elementary school.
 * Created statistical software for public education system.
 * Implemented medical rehabilitation web and desktop applications.
@@ -43,7 +43,7 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 * Security System (2013 – Present): Linux Service that read real time sensors data and trigger events based on setting’s behavior using a Raspberry Pi, Restful APIs and AWS.
 
 ## EDUCATION
-### Matanzas, Cuba	Universidad de Matanzas	Sept 2000 – May 2005
+### Matanzas, Cuba &nbsp;&nbsp;&nbsp; Universidad de Matanzas &nbsp;&nbsp;&nbsp; Sept 2000 – May 2005
 * B.S. in Software Engineering, May 2005.
 * B.A. in Professor of Computer Science, May 2005.
 
