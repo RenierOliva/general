@@ -1,8 +1,15 @@
 #Renier Oliva 
 Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 
-## EMPLOYMENT	
-### .NET Developer	ByDesign Technologies	Jan 2013 - Present
+## EMPLOYMENT
+### Software / Robotics	Tampa Deep Sea Xplorers	Feb 2017 – Present
+* Designed and prototyped an AUUV (Autonomous Unmanned Underwater Vehicle) for deep water exploration (Shell- and NOAA-supported).
+
+### Software Engineer / Owner	Unique Coding Solutions	Feb 2017 – Present
+* Created a Cascade Filling System for Compressed Natura Gas (CNG).
+* Developed Amazon Alexa skills for United Methodist Church.
+
+### .NET Developer	ByDesign Technologies	Jan 2013 - Mar 2017
 * Participate in technical solutions and estimate new projects timeline.
 * Implement new projects on ASP.NET MVC and Restful APIs (SOA).
 * Maintain existing modules on Classic ASP and SOAP web services.
