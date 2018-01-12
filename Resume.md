@@ -3,15 +3,16 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 
 ## EMPLOYMENT
 ### Software / Robotics	&nbsp;&nbsp;&nbsp; Tampa Deep Sea Xplorers &nbsp;&nbsp;&nbsp; Feb 2017 – Present
-* Designed and prototyped an AUUV (Autonomous Unmanned Underwater Vehicle) for deep water exploration (Shell- and NOAA-supported).
+* Designed and prototyped an AUUV (Autonomous Unmanned Underwater Vehicle) for deep water exploration (Ocean Discovery XPRIZE competition sponsored by Shell and NOAA).
 
 ### Software Engineer / Owner &nbsp;&nbsp;&nbsp; Unique Coding Solutions &nbsp;&nbsp;&nbsp; Feb 2017 – Present
-* Created a Cascade Filling System for Compressed Natura Gas (CNG).
-* Developed Amazon Alexa skills for United Methodist Church.
+* Created automation controller for a Cascade Filling System for Compressed Natural Gas (C/C++).
+* Developed Amazon Alexa skills for United Methodist Church (NodeJS, AWS).
+
 
 ### .NET Developer &nbsp;&nbsp;&nbsp; ByDesign Technologies &nbsp;&nbsp;&nbsp; Jan 2013 - Mar 2017
 * Participate in technical solutions and estimate new projects timeline.
-* Implement new projects on ASP.NET MVC and Restful APIs (SOA).
+* Implement new projects on ASP.NET MVC and Restful APIs (C#).
 * Maintain existing modules on Classic ASP and SOAP web services.
 * Review and approve requirement documents.
 * Fix bugs, troubleshoot and test modules following company code standards.
@@ -20,9 +21,9 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 
 ### Software Engineer &nbsp;&nbsp;&nbsp; Union CubaPetróleo &nbsp;&nbsp;&nbsp; Oct 2007 - Dec 2011
 * Designed, implemented, and maintained Exploration and Production business applications.
-* Developed information systems for oil and gas production.
+* Developed information systems for oil and gas production on ASP.NET.
 * Created web application for report of drilling operations.
-* Managed web interface for storage products control.
+* Managed web interface for storage products control (SQL Server).
 * Maintained Exploration & Production intranet portal.
 * Member of Leader's Expert Group of computer systems.
 * Prepared daily reports of oil production by enterprises, managed and analyzed data of oil produced.
@@ -33,10 +34,10 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 * Mentored and Tutor for three engineering thesis students.
 
 ### Software Developer &nbsp;&nbsp;&nbsp; Freelance &nbsp;&nbsp;&nbsp; 2000 - 2012
-* Designed Interactive multimedia educational software for elementary school.
-* Created statistical software for public education system.
-* Implemented medical rehabilitation web and desktop applications.
-* Created customer arts and crafts website.
+* Designed Interactive multimedia educational software for elementary school (ActionScript).
+* Created statistical software for public education system (Borland Delphi and SQL Server).
+* Implemented medical rehabilitation web and desktop applications (Borland Delphi).
+* Created customer arts and crafts website (HTML and CSS).
 
 ## TECHNICAL EXPERIENCE				
 ### Projects
