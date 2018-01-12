@@ -23,6 +23,7 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 * Participate in reviewing code, and 3rd party integration.
 
 ### Software Engineer &nbsp;&nbsp;&nbsp; Union CubaPetróleo &nbsp;&nbsp;&nbsp; Oct 2007 - Dec 2011
+#### La Habana, Cuba
 * Designed, implemented, and maintained Exploration and Production business applications.
 * Developed information systems for oil and gas production on ASP.NET.
 * Created web application for report of drilling operations.
@@ -33,6 +34,7 @@ Tampa, FL - (813) 760-9032 - renier.com@gmail.com
 * Coordinated with company enterprises to make decisions about software compatibility, communication, and future developments.
 							 
 ### Programming Professor &nbsp;&nbsp;&nbsp; Universidad de Ciencias Informáticas &nbsp;&nbsp;&nbsp; Aug 2005 - Aug 2007
+#### La Habana, Cuba
 * Taught Object-Oriented Programming concepts, web design, and software engineering courses.
 * Mentored and Tutor for three engineering thesis students.
 
